@@ -2,6 +2,7 @@ from work.contrib.models import BaseModel
 from sqlalchemy import Integer, String
 from sqlalchemy.orm import Mapped, mapped_column, relationship
 
+
 class CategoriaModel(BaseModel):
     __tablename__ = 'categorias'
 
