@@ -1,4 +1,11 @@
 # Desafio API Python
+![Python](https://img.shields.io/badge/Python-Backend%20Development-3776AB?style=flat-square&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Web%20Framework-009688?style=flat-square&logo=fastapi)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=flat-square&logo=sqlite)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-ASGI%20Server-4B8BBE?style=flat-square&logo=uvicorn)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker)
+![CRUD](https://img.shields.io/badge/CRUD-Operations-00C2A8?style=flat-square&logo=github)
+
 
 ## Descrição
 
